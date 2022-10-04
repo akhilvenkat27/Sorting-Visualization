@@ -31,7 +31,7 @@ DEVELOPING SECTION:
           at second index of display array i have pushed '|' for arr[1] times and remaining i.e (2 times '|' && 2 time ' ')
           at third index of display array i have pushed '|' for arr[2] times and remaining i.e (3 times '|' && 1 time ' ')
           and soo on.
-       > if it is not a square matrix i have pushed empty spaces on (each index upto max)->column from (array size to max)->row 
+       > if it is not a square matrix i have pushed empty spaces on (from array element upto max)->column from (array size to max)->row 
        > at present they are in horizontal position 
           example
             vector<vector<int>>display is like 
@@ -46,7 +46,7 @@ DEVELOPING SECTION:
              | |
            | | |
          | | | |
-       > for that rotation we just reversed each index then transposed !
+       > for that rotation we just reversed each at each row of display then transposed !
        > note : EVEN THEY ARE NOT IN N*N WE HAD MADE MATRIX INTO N*N BECAUSE IT AVOIDS CLASHES WHILE TRANSPOSING ..THAT'S IT
        
   
