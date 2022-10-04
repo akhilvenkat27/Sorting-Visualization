@@ -1,22 +1,22 @@
 # Sorting-Visualization
-#This is the place where you experience the vsulizations of sorting algorithms.
-In this context we will discuss the most frequent sorting algorithms which are commonly used.
-1)Bubble Sort
-2)Insertion Sort
-3)Selection Sort
-4)Merge Sort
-5)Quick Sort
-->once visit the code given in the name of "name"_visual then compile the code in your IDE.
-then you experience how the sort actually working in the GRAPHICAL MANNER.
--> if you have no time then I HAVE GIVEN OUTPUT IN VIDEO FORMAT once watch it you will get to a point. 
+This is the place where you experience the vsulizations of sorting algorithms.  
+In this context we will discuss the most frequent sorting algorithms which are commonly used.  
+1)Bubble Sort  
+2)Insertion Sort  
+3)Selection Sort  
+4)Merge Sort  
+5)Quick Sort  
+->once visit the code given in the name of "name"_visual then compile the code in your IDE.  
+then you experience how the sort actually working in the GRAPHICAL MANNER.  
+-> if you have no time then I HAVE GIVEN OUTPUT IN VIDEO FORMAT once watch it you will get to a point.   
 
 
-DEVELOPING SECTION:
+DEVELOPING SECTION:  
 
-->If you had the DOUBT HOW CODE WAS BUILD for this visulization?
-  -the whole sorting algorithms are developed of common idea.
-  -I have displayed the array at each instance of operation so that learner will understand how it actually works.
-  -for displaying the array in graphical order follow these steps
+->If you had the DOUBT HOW CODE WAS BUILD for this visulization?  
+  -the whole sorting algorithms are developed of common idea.  
+  -I have displayed the array at each instance of operation so that learner will understand how it actually works.  
+  -for displaying the array in graphical order follow these steps  
        
        >first calculate the maximum in the array
        >to display it in graphical manner we have to take an n*n matrix
@@ -50,5 +50,5 @@ DEVELOPING SECTION:
        > note : EVEN THEY ARE NOT IN N*N WE HAD MADE MATRIX INTO N*N BECAUSE IT AVOIDS CLASHES WHILE TRANSPOSING ..THAT'S IT
        
   
-THANKS FOR YOUR PATIENCE
+THANKS FOR YOUR PATIENCE  
 #AKHIL VENKAT .G
