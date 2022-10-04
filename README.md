@@ -27,7 +27,8 @@ DEVELOPING SECTION:
           n*n matrix:
           vector<vector<int>>display
           in this case max=4;
-          at first index of display array i have pushed a symbol '|' for arr[0] times & remaining upto max times, empty spaces are pushed to make it n*n
+          at first index of display array i have pushed a symbol '|' for arr[0] times & remaining upto max times, 
+          empty spaces are pushed to make it n*n
           at second index of display array i have pushed '|' for arr[1] times and remaining i.e (2 times '|' && 2 time ' ')
           at third index of display array i have pushed '|' for arr[2] times and remaining i.e (3 times '|' && 1 time ' ')
           and soo on.
