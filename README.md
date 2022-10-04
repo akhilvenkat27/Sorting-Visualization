@@ -1,5 +1,5 @@
 # Sorting-Visualization
-This is the place where you experience the vsulizations of sorting algorithms.
+#This is the place where you experience the vsulizations of sorting algorithms.
 In this context we will discuss the most frequent sorting algorithms which are commonly used.
 1)Bubble Sort
 2)Insertion Sort
