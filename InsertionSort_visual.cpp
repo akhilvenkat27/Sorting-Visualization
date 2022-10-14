@@ -1,3 +1,5 @@
+//author: G.akhil venkat
+//created : 15 oct 2022
 
 #include <bits/stdc++.h>
 using namespace std;
