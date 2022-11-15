@@ -62,8 +62,8 @@ int main()
         {
             v[j+1]=v[j];
             j=j-1;
+           display(v,maxe,n);
         }
         v[j+1]=key;
-       display(v,maxe,n);
     }
 }
