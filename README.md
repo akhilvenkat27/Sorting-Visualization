@@ -36,10 +36,11 @@ DEVELOPING SECTION:
        > at present they are in horizontal position 
           example
             vector<vector<int>>display is like 
-             |
-             | |
-             | | |
-             | | | |
+             __
+             __ __ 
+             __ __ __
+             __ __ __ __
+             
        > this is how they actually looks like (spaces cant be visible but they actually existed there)
        > now we have to rotate the display array into 90° in anti clock wise for actual representation.
          after rotating they look like
